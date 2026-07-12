@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Mga Marites</title>
+
+    <!-- Facebook Preview -->
+    <meta property="og:title" content="Kilalanin ang bagong BF ni Maris!">
+    <meta property="og:image" content="https://viralnewsroomph.github.io/ShopeeClicks/Robin1.jpg">
+    <meta property="og:image:secure_url" content="https://viralnewsroomph.github.io/ShopeeClicks/Robin1.jpg">
+    <meta property="og:image:type" content="image/jpg">
+
+    <meta property="og:url" content="https://viralnewsroomph.github.io/ShopeeClicks/index3.html">
+    <meta property="og:type" content="website">
+
+    <!-- X / Twitter Preview -->
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:description" content="Ipinagmalaki ni Sen. Robin Padilla ang tatlong taong pananatili niya sa kulungan, na tinawag niyang "University of Prison" at ang "tunay na University of Life."">
+    <meta name="twitter:image" content="https://github.com/viralnewsroomph/ShopeeClicks/blob/main/Maris3.jpg?raw=true">
+
+    <script>
+        setTimeout(function () {
+            window.location.replace("https://s.shopee.ph/40esPOD7pQ");
+        }, 1000);
+    </script>
+
+</head>
+
+<body>
+</body>
+</html>
